@@ -25,3 +25,11 @@ body {
         section {
             padding: 50px;
         }
+        footer {
+             background-color:#333;
+             color:white;
+             text-align:center;
+             padding:10 px;
+             bottom:0;
+             width:100 %;
+       }
