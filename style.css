@@ -1,16 +1,11 @@
 body {
             font-family: Arial, sans-serif;
             margin: 20px;
-            padding: 70px;
             text-align: center;
-        }
-header {
             background-color:violet;
             text-color:white;
             padding:20px;
             text-align:centre;
-        }
-h1,h2{
             border-line-color:purple;
             border-line-size:5px;
         }
